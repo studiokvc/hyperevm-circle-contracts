@@ -1,3 +1,7 @@
+## Parcours français
+
+Un [guide en cinq chapitres](docs/fr/) analyse la frontière HyperCore/HyperEVM, CCTP, CREATE2 et les proxies.
+
 # hyperevm-circle-contracts
 
 Repository for all HyperEVM contracts developed by Circle
